@@ -1,7 +1,13 @@
-h1{
-    text-align: center; color:palevioletred;
-   }
-p{  text-align: center;
-   }
-strong{ text-align: center; 
-   }
+
+		header{
+			background: #BBBBBB;
+		}
+        p{
+			text-align: center;
+		}
+		h1{
+			color: pink;text-align: center;
+		}
+		strong{
+			color: red;
+		}
